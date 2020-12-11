@@ -1,0 +1,59 @@
+﻿aisle,brand,product
+8,Cheetos,chips
+8,Tostitos,chips
+8,Baked lays,chips
+8,Doritos,chips
+8,Ruffles,chips
+8,Fritos,chips
+8,Hot Cheetos,chips
+8,Smart Popcorn,popcorn
+8,Pretzel Crisps,pretzels
+3,Heinz Ketchup,ketchup
+3,Frenchies Mustard,mustard
+3,Duke's Mayonaise,mayonaise
+3,Texas Pete,hot sauce
+3,Sweet Baby Ray's BBQ Sauce,barbeque sauce
+1,Hidden Valley Ranch,salad dressing
+1,Kraft Zesty Italian,salad dressing
+1,Olive Garden Italian,salad dressing
+1,Kraft Classic Caesar,salad dressing
+1,Salad Toppers,salad dressing
+7,Nutter Butters,cookies
+7,Oreos,cookies
+7,Nutty Buddy,little debbies
+7,Honey Buns,little debbies
+7,Oatmeal Crème Pies,little debbies
+7,Cosmic Brownies,little debbies
+7,Swiss Rolls,little debbies
+7,chips ahoy,cookies
+7,Hostess Donettes,donuts
+6,Ritz Crackers,crackers
+6,Goldfish,goldfish
+6,Cheez-Its,crackers
+6,Club Crackers,crackers
+6,Ritz Peanut Butter Crackers,crackers
+6,Orville Redenbacher's Popcorn,popcorn
+6,Pop-Secret PopCorn,popcorn
+2,Nature's Own Honey Wheat Bread,bread
+2,Sunbeam Giant Bread,bread
+2,Wonder Bread,bread
+2,Hamburger Buns,bread
+4,Sugar,sugar
+4,Powdered Sugar,sugar
+4,Vegetable Oil,vegetable oil
+4,Betty Crocker Vanilla Cake Mix,cake mix
+4,Betty Crocker Chocolate Cake Mix,cake mix
+4,Betty Crocker Vanilla Icing,icing
+4,Betty Crocker Chocolate Icing,icing
+5,Chef Boyardee Ravioli,raviolli
+5,Campbell's Chicken Noodle Soup,soup
+5,Campbell's Tomato Soup,soup
+5,Del Monte Whole Kernel Corn,corn
+5,Del Monte Sweet Peas,peas
+5,Green Giant Green Beans,green beans
+9,Gatorade,drinks
+9,Coke,drinks
+9,Pepsi,drinks
+9,Mountain Dew,drinks
+9,Dr. Pepper,drinks
+9,Sprite,drinks
